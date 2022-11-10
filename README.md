@@ -4,8 +4,8 @@
 ### 🛠 Setting-up
 
 ```
-git clone https://github.com/Plasmonix/Netflixer
-cd Netflixer
+git clone https://github.com/MasDenk/NetflixCheck
+cd NetflixCheck
 pip install -r requirements.txt
 python main.py
 ```
